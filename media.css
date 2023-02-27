@@ -1,0 +1,35 @@
+@media;
+@media();
+@media (max-width: 768px) {
+  .sign-up {
+    width: 100%;
+    padding: 20px 40px;
+    grid-template-columns: 1fr;
+  }
+  .homes {
+    grid-template-columns: 1fr;
+    padding: 20px 40px;
+  }
+  .header {
+    font-size: 3rem;
+  }
+  .hero {
+    margin: 4rem 2rem;
+    padding: 8rem 5rem 0 2rem;
+  }
+  .details {
+    font-size: 1.2rem;
+    margin-top: 20px;
+    color: aliceblue;
+    padding-right: 2rem;
+  }
+  .monial {
+    display: none;
+  }
+  link {
+    display: none;
+  }
+  .contact-details {
+    display: none;
+  }
+}
